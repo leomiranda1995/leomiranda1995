@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Miranda
+## Leonardo Miranda
 
 <div>
   <a href="https://github.com/leomiranda1995">
